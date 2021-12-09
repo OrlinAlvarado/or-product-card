@@ -1,6 +1,6 @@
 # OR-Product-Card
 
-Este es un paquete de prueas de despliegue en NPM
+Este es un paquete de pruebas de despliegue en NPM
 
 ### Orlin Alvarado
 
